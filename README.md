@@ -32,7 +32,7 @@ B.Com in Computer Applications — PVKK Degree College (2022)
 ### 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saitharunvelpula)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=netlify&logoColor=white)](https://sai-tharun-portfolio.netlify.app)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=netlify&logoColor=white)](https://saitharunvelpula.netlify.app)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:saitharun.velpula01@gmail.com)
 
 ---
