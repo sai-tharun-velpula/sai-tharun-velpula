@@ -18,7 +18,7 @@ I build web applications using the Microsoft technology stack, with a focus on c
 
 ### 📌 Featured Project
 
-**[Employee Management System (HRMS)](https://github.com/velpulasaitharun/Employee-Management-System)**
+**[Employee Management System (HRMS)](https://github.com/velpulasaitharun/employee-management-system)**
 A full-featured HR management platform built with ASP.NET Core MVC, C#, EF Core, and SQL Server — covering employee records, attendance, leave, payroll, departments, role-based authentication, and audit logging.
 
 ---
