@@ -8,22 +8,26 @@ I build web applications using the Microsoft technology stack, with hands-on exp
 
 ### 🛠️ Tech Stack
 
-**Languages:**  
+**Programming Languages:**  
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
+**Web Technologies:**  
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 
 **Frameworks:**  
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?logo=dotnet&logoColor=white)
 ![ASP.NET MVC](https://img.shields.io/badge/-ASP.NET%20MVC-512BD4?logo=dotnet&logoColor=white)
 ![ASP.NET Core MVC](https://img.shields.io/badge/-ASP.NET%20Core%20MVC-512BD4?logo=dotnet&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 
-**Data & Database:**  
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
-![Entity Framework Core](https://img.shields.io/badge/-Entity%20Framework%20Core-512BD4?logo=dotnet&logoColor=white)
+**Data Access:**  
 ![ADO.NET](https://img.shields.io/badge/-ADO.NET-512BD4?logo=dotnet&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/-Entity%20Framework%20Core-512BD4?logo=dotnet&logoColor=white)
+
+**Database:**  
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
 
 **Development Tools:**  
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white)
